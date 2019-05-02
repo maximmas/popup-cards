@@ -1,0 +1,12 @@
+    .cj_settings {
+      font-family: 'Roboto', sans-serif;
+    }
+
+    .cj_users th,
+    .cj_users td,
+    .cj_users tr {
+      border: 1px solid #111;
+      padding: 10px;
+      font-family: 'Roboto', sans-serif;
+      font-size: 1rem;
+    }
